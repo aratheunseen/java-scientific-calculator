@@ -8,7 +8,7 @@ This is a scientific calculatior created in Java and Java Swing (JFrame). Java s
 
  Step-1. Download or clone this repository -
 
-    git clone https://github.com/aratheunseen/java-scientific-calculator.git
+    git clone https://github.com/aratheunseen/Java-Scientific-Calculator.git
 
  Step-2. Open `ScientificCalculator.java` file in Apache NetBeans, IntelliJ IDEA or any other IDE from open project option.
 

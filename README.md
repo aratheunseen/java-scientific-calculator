@@ -6,7 +6,7 @@ This is a basic scientific calculator created in Java and Java Swing (JFrame). J
 
 ## Getting Started
 
- Step-1. Download or clone this repository -
+ Step-1. Download or clone this repository.
 
     git clone https://github.com/aratheunseen/Java-Scientific-Calculator.git
 

@@ -1,4 +1,4 @@
-# Java-Scientific-Calculator
+# Java Scientific Calculator
 
 This is a basic scientific calculator created in Java and Java Swing (JFrame). Java swing is used for making Graphical User Interface (GUI).
 
